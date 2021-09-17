@@ -1,0 +1,13 @@
+"","year","state1","state1.min.wage","state1.unem.rate","state1.house.income","state2","state2.min.wage","state2.unem.rate","state2.house.income"
+"1",1987,"Minnesota",3.35,5.2,28082,"Wisconsin",3.35,5.7,26369
+"2",1997,"Massachusetts",5.25,4.1,42023,"Virginia",4.75,3.8,42957
+"3",2004,"Illinois",5.5,6.2,46077,"Ohio",5.15,6.2,43055
+"4",2005,"Arizona",5.15,4.7,45245,"Wisconsin",5.15,4.7,44650
+"5",2012,"Arizona",7.65,8.4,47044,"Indiana",7.25,8.2,46158
+"6",2012,"Arizona",7.65,8.4,47044,"Tennessee",7.25,8,42995
+"7",2012,"Florida",7.67,8.8,46071,"New York",7.25,8.8,47680
+"8",2012,"Missouri",7.25,7.2,49764,"Wisconsin",7.25,7,53079
+"9",2013,"Arizona",7.8,7.9,52611,"Indiana",7.25,7.7,49455
+"10",2014,"Colorado",8,5,60940,"Wisconsin",7.25,5.4,58080
+"11",2016,"Indiana",7.25,4.4,56094,"Missouri",7.65,4.7,55016
+"12",2016,"Missouri",7.65,4.7,55016,"Tennessee",7.25,4.7,51344
